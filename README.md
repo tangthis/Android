@@ -10,5 +10,3 @@ Android 开发实例
 > Author : tangthis
 >
 > Email  : tangthis#163.com
->
-> Weixin : jerry0914
